@@ -1,0 +1,15 @@
+C:\code\Learning-CSharp\NETEexperiment\bin\Debug\net6.0\NETEexperiment.exe
+C:\code\Learning-CSharp\NETEexperiment\bin\Debug\net6.0\NETEexperiment.deps.json
+C:\code\Learning-CSharp\NETEexperiment\bin\Debug\net6.0\NETEexperiment.runtimeconfig.json
+C:\code\Learning-CSharp\NETEexperiment\bin\Debug\net6.0\NETEexperiment.dll
+C:\code\Learning-CSharp\NETEexperiment\bin\Debug\net6.0\NETEexperiment.pdb
+C:\code\Learning-CSharp\NETEexperiment\obj\Debug\net6.0\NETEexperiment.csproj.AssemblyReference.cache
+C:\code\Learning-CSharp\NETEexperiment\obj\Debug\net6.0\NETEexperiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Learning-CSharp\NETEexperiment\obj\Debug\net6.0\NETEexperiment.AssemblyInfoInputs.cache
+C:\code\Learning-CSharp\NETEexperiment\obj\Debug\net6.0\NETEexperiment.AssemblyInfo.cs
+C:\code\Learning-CSharp\NETEexperiment\obj\Debug\net6.0\NETEexperiment.csproj.CoreCompileInputs.cache
+C:\code\Learning-CSharp\NETEexperiment\obj\Debug\net6.0\NETEexperiment.dll
+C:\code\Learning-CSharp\NETEexperiment\obj\Debug\net6.0\refint\NETEexperiment.dll
+C:\code\Learning-CSharp\NETEexperiment\obj\Debug\net6.0\NETEexperiment.pdb
+C:\code\Learning-CSharp\NETEexperiment\obj\Debug\net6.0\NETEexperiment.genruntimeconfig.cache
+C:\code\Learning-CSharp\NETEexperiment\obj\Debug\net6.0\ref\NETEexperiment.dll

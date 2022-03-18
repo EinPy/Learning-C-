@@ -1,0 +1,15 @@
+C:\code\Learning-CSharp\PracticeConsoleApplication\PracticeConsoleApplication\bin\Debug\net6.0\PracticeConsoleApplication.exe
+C:\code\Learning-CSharp\PracticeConsoleApplication\PracticeConsoleApplication\bin\Debug\net6.0\PracticeConsoleApplication.deps.json
+C:\code\Learning-CSharp\PracticeConsoleApplication\PracticeConsoleApplication\bin\Debug\net6.0\PracticeConsoleApplication.runtimeconfig.json
+C:\code\Learning-CSharp\PracticeConsoleApplication\PracticeConsoleApplication\bin\Debug\net6.0\PracticeConsoleApplication.dll
+C:\code\Learning-CSharp\PracticeConsoleApplication\PracticeConsoleApplication\bin\Debug\net6.0\ref\PracticeConsoleApplication.dll
+C:\code\Learning-CSharp\PracticeConsoleApplication\PracticeConsoleApplication\bin\Debug\net6.0\PracticeConsoleApplication.pdb
+C:\code\Learning-CSharp\PracticeConsoleApplication\PracticeConsoleApplication\obj\Debug\net6.0\PracticeConsoleApplication.csproj.AssemblyReference.cache
+C:\code\Learning-CSharp\PracticeConsoleApplication\PracticeConsoleApplication\obj\Debug\net6.0\PracticeConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Learning-CSharp\PracticeConsoleApplication\PracticeConsoleApplication\obj\Debug\net6.0\PracticeConsoleApplication.AssemblyInfoInputs.cache
+C:\code\Learning-CSharp\PracticeConsoleApplication\PracticeConsoleApplication\obj\Debug\net6.0\PracticeConsoleApplication.AssemblyInfo.cs
+C:\code\Learning-CSharp\PracticeConsoleApplication\PracticeConsoleApplication\obj\Debug\net6.0\PracticeConsoleApplication.csproj.CoreCompileInputs.cache
+C:\code\Learning-CSharp\PracticeConsoleApplication\PracticeConsoleApplication\obj\Debug\net6.0\PracticeConsoleApplication.dll
+C:\code\Learning-CSharp\PracticeConsoleApplication\PracticeConsoleApplication\obj\Debug\net6.0\ref\PracticeConsoleApplication.dll
+C:\code\Learning-CSharp\PracticeConsoleApplication\PracticeConsoleApplication\obj\Debug\net6.0\PracticeConsoleApplication.pdb
+C:\code\Learning-CSharp\PracticeConsoleApplication\PracticeConsoleApplication\obj\Debug\net6.0\PracticeConsoleApplication.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\code\Learning-CSharp\CodeCampCourse\BlazorApp2\BlazorApp2\Shared\bin\Debug\net6.0\BlazorApp2.Shared.deps.json
+D:\code\Learning-CSharp\CodeCampCourse\BlazorApp2\BlazorApp2\Shared\bin\Debug\net6.0\BlazorApp2.Shared.dll
+D:\code\Learning-CSharp\CodeCampCourse\BlazorApp2\BlazorApp2\Shared\bin\Debug\net6.0\BlazorApp2.Shared.pdb
+D:\code\Learning-CSharp\CodeCampCourse\BlazorApp2\BlazorApp2\Shared\obj\Debug\net6.0\BlazorApp2.Shared.csproj.AssemblyReference.cache
+D:\code\Learning-CSharp\CodeCampCourse\BlazorApp2\BlazorApp2\Shared\obj\Debug\net6.0\BlazorApp2.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\Learning-CSharp\CodeCampCourse\BlazorApp2\BlazorApp2\Shared\obj\Debug\net6.0\BlazorApp2.Shared.AssemblyInfoInputs.cache
+D:\code\Learning-CSharp\CodeCampCourse\BlazorApp2\BlazorApp2\Shared\obj\Debug\net6.0\BlazorApp2.Shared.AssemblyInfo.cs
+D:\code\Learning-CSharp\CodeCampCourse\BlazorApp2\BlazorApp2\Shared\obj\Debug\net6.0\BlazorApp2.Shared.csproj.CoreCompileInputs.cache
+D:\code\Learning-CSharp\CodeCampCourse\BlazorApp2\BlazorApp2\Shared\obj\Debug\net6.0\BlazorApp2.Shared.dll
+D:\code\Learning-CSharp\CodeCampCourse\BlazorApp2\BlazorApp2\Shared\obj\Debug\net6.0\refint\BlazorApp2.Shared.dll
+D:\code\Learning-CSharp\CodeCampCourse\BlazorApp2\BlazorApp2\Shared\obj\Debug\net6.0\BlazorApp2.Shared.pdb
+D:\code\Learning-CSharp\CodeCampCourse\BlazorApp2\BlazorApp2\Shared\obj\Debug\net6.0\ref\BlazorApp2.Shared.dll

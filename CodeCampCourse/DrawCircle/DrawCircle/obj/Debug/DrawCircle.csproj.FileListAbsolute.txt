@@ -1,0 +1,8 @@
+D:\code\Learning-CSharp\CodeCampCourse\DrawCircle\DrawCircle\obj\Debug\DrawCircle.csproj.AssemblyReference.cache
+D:\code\Learning-CSharp\CodeCampCourse\DrawCircle\DrawCircle\obj\Debug\DrawCircle.csproj.SuggestedBindingRedirects.cache
+D:\code\Learning-CSharp\CodeCampCourse\DrawCircle\DrawCircle\obj\Debug\DrawCircle.csproj.CoreCompileInputs.cache
+D:\code\Learning-CSharp\CodeCampCourse\DrawCircle\DrawCircle\bin\Debug\DrawCircle.exe.config
+D:\code\Learning-CSharp\CodeCampCourse\DrawCircle\DrawCircle\bin\Debug\DrawCircle.exe
+D:\code\Learning-CSharp\CodeCampCourse\DrawCircle\DrawCircle\bin\Debug\DrawCircle.pdb
+D:\code\Learning-CSharp\CodeCampCourse\DrawCircle\DrawCircle\obj\Debug\DrawCircle.exe
+D:\code\Learning-CSharp\CodeCampCourse\DrawCircle\DrawCircle\obj\Debug\DrawCircle.pdb
